@@ -7,7 +7,7 @@
 </table>
 <style>
 body {
-  background-image: url('img.jpg');
+  background-image: url('https://img.freepik.com/premium-vector/abstract-dynamic-blue-orange-background_67845-1390.jpg?w=2000');
 }
 </style>
 
